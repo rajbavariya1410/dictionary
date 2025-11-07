@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+    background: url('https://wallpapers.com/images/hd/stack-of-old-dictionary-books-iva376re8ofz4tah.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+
+}
